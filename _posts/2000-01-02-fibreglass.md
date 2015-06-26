@@ -24,3 +24,12 @@ Ideal for:
 * Balconies
 
 ## Guaranteed for 20 years
+
+<div>
+<img class="row full column"  src="img/beforeafter1.jpg" alt="ba1" title="ba1" />
+<img class="row small column" src="img/before1.jpg" alt="b1" title="b1" />
+<img class="row big column" src="img/after1.jpg" alt="a1" title="a1" />
+<img class="row full column"  src="img/sunny.jpg" alt="sunny" title="sunny" />
+<img class="row full column"  src="img/multi.jpg" alt="multi" title="multi" />
+</div>
+
