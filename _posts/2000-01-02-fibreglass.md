@@ -23,7 +23,8 @@ Ideal for:
 * Extensions
 * Balconies
 
-## Guaranteed for 20 years
+# Guaranteed for 20 years
+{: .text-orange}
 
 <div>
 <img class="row full column"  src="img/beforeafter1.jpg" alt="ba1" title="ba1" />
@@ -32,4 +33,3 @@ Ideal for:
 <img class="row full column"  src="img/sunny.jpg" alt="sunny" title="sunny" />
 <img class="row full column"  src="img/multi.jpg" alt="multi" title="multi" />
 </div>
-
