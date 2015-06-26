@@ -221,6 +221,7 @@ nav ul li:hover, nav ul li.active {
   position: static;
   margin-top: -8px;
 }
+
 .sectiondivider .fa-circle { color: #fff; }
 
 .sectiondivider h5 {
@@ -240,6 +241,23 @@ nav ul li:hover, nav ul li.active {
   text-shadow: 1px 1px 3px #333;
 }
 
+.sectiondivider-big 
+{    
+  display:inline-block;
+}
+
+#.sectiondivider-big img
+#{
+#  width: 200px;
+#}
+
+.small-width {margin: 0 auto !important;margin-bottom:20px !important;text-align:center;}
+.footer-list {margin: 0 auto !important;margin-bottom:20px !important;text-align:justify;width:40%;}
+
+#contact-link a {font-size:24px;font-weight:bold;}
+
+.sectiondivider .text-blue {margin-left:5px !important;}
+
 
 .columned {
   -webkit-column-count: 3;
@@ -258,51 +276,10 @@ nav ul li:hover, nav ul li.active {
 .longlist li { margin-bottom: 3px; }
 
 
-
-/* ----- fork on github banner ----- */
-#forkongithub a {
-  color:#fff;
-  text-decoration:none;
-  font-family:arial,sans-serif;
-  text-align:center;
-  font-weight:700;
-  font-size:1rem;
-  line-height:2rem;
-  position:relative;
-  transition:.5s;
-  padding:5px 40px;
+/* for top image */
+@media only screen and (max-width:959px) {
+  .sectiondivider-big {margin-right:0px;height:275px;width:275px;}
 }
-#forkongithub a::before, #forkongithub a::after {
-  content:""; width:100%; display:block; position:absolute;
-  top:1px; left:0; height:1px; background:#fff;
-}
-#forkongithub a::after { bottom:1px; top:auto; }
-@media screen and (min-width:800px) {
-  #forkongithub {
-    position:fixed;
-    display:block;
-    top:0;
-    right:0;
-    width:200px;
-    overflow:hidden;
-    height:200px;
-    z-index:9999;
-  }
-  #forkongithub a {
-    width:200px;
-    position:absolute;
-    top:60px;
-    right:-60px;
-    transform:rotate(45deg);
-    -webkit-transform:rotate(45deg);
-    -ms-transform:rotate(45deg);
-    -moz-transform:rotate(45deg);
-    -o-transform:rotate(45deg);
-    box-shadow:4px 4px 10px rgba(0,0,0,0.8);
-    box-sizing: content-box;
-  }
-}
-
 
 
 /* mid size (tablets, landscapes) */
