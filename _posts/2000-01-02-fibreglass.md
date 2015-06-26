@@ -24,7 +24,6 @@ Ideal for:
 * Balconies
 
 # Guaranteed for 20 years
-{: .text-orange}
 
 <div>
 <img class="row full column"  src="img/beforeafter1.jpg" alt="ba1" title="ba1" />
